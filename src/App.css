@@ -85,4 +85,5 @@ hr {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  letter-spacing: 0.01px;
 }
